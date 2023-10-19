@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngọc
 - 👀 I’m interested in you ...
 - 🌱 I’m currently learning IT ...
-- 💞️ I’m looking to collaborate on Facebook
+- 💞️ I’m looking to collaborate on Facebook, Zalo
 - 📫 How to reach me Facebook: https://www.facebook.com/profile.php?id=100023475249151&mibextid=ZbWKwL
 
 <!---
