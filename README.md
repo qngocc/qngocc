@@ -8,6 +8,9 @@
 
 ## 🔧 Kỹ năng & Công nghệ quan tâm
 
+### 🔧 Công cụ & Quản lý mã nguồn
+- Git & GitHub
+  
 ### 📱 Mobile App
 - Xamarin / .NET MAUI (Android + iOS)
 
@@ -29,10 +32,10 @@
 ---
 
 ## 📚 Dự án cá nhân
-- 🖩 [CaculatorApp](https://github.com/qngocc/CaculatorApp): ứng dụng máy tính bỏ túi đơn giản viết bằng C# WinForms.  
+- 🧮 [CaculatorApp](https://github.com/qngocc/CaculatorApp): ứng dụng máy tính bỏ túi đơn giản viết bằng C# WinForms.  
 - *(sẽ tiếp tục bổ sung thêm các project học tập khác)*
 
 ---
 
 ## 📫 Liên hệ
-- Facebook: [Ngọc](https://www.facebook.com/qngoc25)
+- Facebook: [qngoc](https://www.facebook.com/qngoc25)
